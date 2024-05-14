@@ -2,7 +2,7 @@
 
 repositório da turma 3A2
 
-# este é o repositório do plano yasmim da silva barboza
+# este é o repositório do aluno yasmim da silva barboza
 
 sejam todos bem vindos!
 
